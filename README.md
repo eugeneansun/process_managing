@@ -72,3 +72,7 @@ Table:
 |            | algorithm, genetic algorithm and    |       Jasper Gao          |
 |            | grey prediction model.              |                           |
 |------------|-------------------------------------|---------------------------|
+| 2023.10.16 | Learned about multi-objective progr-|                           |
+|            | amming models and their real life   |        Eugene Sun         | 
+|            | examples                            |                           |
+|------------|-------------------------------------|---------------------------|
